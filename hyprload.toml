@@ -1,0 +1,10 @@
+[single-tag-set]
+description = "single-tag-set"
+version = "1.0.0"
+author = "Linux123123"
+
+[single-tag-set.build]
+output = "single-tag-set.so"
+steps = [
+    "make all",
+]
